@@ -8,4 +8,4 @@ source/**/vendor
 
 source/application/database.php
 
-source/runtime
+source/**/runtime
