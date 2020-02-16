@@ -1,0 +1,9 @@
+.idea
+*.log
+
+*.css.map
+.sass-cache
+
+source/**/vendor
+
+source/application/database.php
